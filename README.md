@@ -29,3 +29,5 @@ Output Images :
 <img src = "https://github.com/gryffindor-guy/Game-Using-Teachable-Machine/blob/main/aaaaaaa.PNG">
 
 Link for Game : https://Game-Using-Teachable-Machine.19pa1a05b3.repl.co
+
+We have referred the snake game from here https://github.com/janbodnar/JavaScript-Snake-Game
